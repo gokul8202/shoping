@@ -1,0 +1,72 @@
+h1{
+    color: rgb(255, 0, 13);
+}
+.input1::placeholder
+{
+text-align: center;
+}
+.input1{
+    border-radius: 50px;
+    height:40px;
+}
+nav a{
+    display:inline-flex;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    justify-content: space-between;
+}
+nav{
+    background-color:aqua;
+}
+.bar{
+    display:inline-flex;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+column-gap: 10px;
+height:fit-content;
+width:fit-content;
+}
+.container .item1{
+    background-color: rgb(141, 141, 151);
+}
+.container .item2{
+    background-color: rgb(126, 218, 90);
+
+}
+button
+{ background-color:black;
+    border-radius: 50px;
+    color: aliceblue;
+    padding: 10px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.offer{
+    color: blac
+}
+.buy{
+    border: 2px solid green;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 50px;
+
+    
+}
+.buy a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.card title{
+    font-weight: bolder;
+}
+ul{
+    list-style: none;
+    align-items:;
+}
